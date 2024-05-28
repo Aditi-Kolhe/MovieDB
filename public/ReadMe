@@ -1,0 +1,15 @@
+Respected Sir/Mam,
+
+I hope this message finds you well.
+
+I am writing to inform you about an issue I encountered while working on the assignment you provided. The API key supplied for fetching movie data did not function as expected, consistently returning a "cannot fetch data" error. Despite multiple attempts and troubleshooting efforts, I was unable to retrieve data using the given API key.
+
+To ensure the project’s completion and provide a functional demonstration, I downloaded the necessary movie data and created a moviesData.js file containing this information. I then utilized this local data file within the project instead of the API.
+
+This approach allowed me to complete the assignment and achieve the desired functionality. If a new or corrected API key is provided, I would be happy to integrate it and update the implementation accordingly.
+
+Thank you for your understanding. Please let me know if you have any further questions or require additional information.
+
+Best regards,
+
+Aditi Kolhe
